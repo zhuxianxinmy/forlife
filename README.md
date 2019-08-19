@@ -14,6 +14,30 @@
 
 2019年8月18日
 
-![image2](https://github.com/zhuxianxinmy/forlife/blob/master/images/image1.jpg)
+![image1](https://github.com/zhuxianxinmy/forlife/blob/master/images/image1.jpg)
 
-![image1](/Users/zyu/Desktop/选用/images/image1.jpg)
+![image2](https://github.com/zhuxianxinmy/forlife/blob/master/images/image2.jpg)
+
+![image3](https://github.com/zhuxianxinmy/forlife/blob/master/images/image3.jpg)
+
+![image4](https://github.com/zhuxianxinmy/forlife/blob/master/images/image4.jpg)
+
+![image5](https://github.com/zhuxianxinmy/forlife/blob/master/images/image5.jpg)
+
+![image6](https://github.com/zhuxianxinmy/forlife/blob/master/images/image6.jpg)
+
+![image7](https://github.com/zhuxianxinmy/forlife/blob/master/images/image7.jpg)
+
+![image8](https://github.com/zhuxianxinmy/forlife/blob/master/images/image8.jpg)
+
+![image9](https://github.com/zhuxianxinmy/forlife/blob/master/images/image9.jpg)
+
+![image10](https://github.com/zhuxianxinmy/forlife/blob/master/images/image10.jpg)
+
+![image11](https://github.com/zhuxianxinmy/forlife/blob/master/images/image11.jpg)
+
+![image12](https://github.com/zhuxianxinmy/forlife/blob/master/images/image12.jpg)
+
+![image13](https://github.com/zhuxianxinmy/forlife/blob/master/images/image13.jpg)
+
+![image14](https://github.com/zhuxianxinmy/forlife/blob/master/images/image14.jpg)
