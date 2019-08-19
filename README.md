@@ -14,5 +14,6 @@
 
 2019年8月18日
 
+![image2](https://github.com/zhuxianxinmy/forlife/blob/master/images/image1.jpg)
 
-
+![image1](/Users/zyu/Desktop/选用/images/image1.jpg)
