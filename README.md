@@ -4,8 +4,6 @@
 
  本人朱贤新，身份证号码﹕452822196505131511。
 
-
-
  防城区政府对生效的法院判决不作为，还变本加厉，2018年5月某日，在我不知情﹑也不通知我的的情况下，防城区政府派出“执法队伍”以强盗形式把我在朱克明拆迁协议坐标图对应地方搭建的房屋强行拆除(图17﹑图18)给被拆迁户朱贤才建房。我在朱克明拆迁协议坐标图对应地方搭建的房屋是在防城区政府作出公示前搭建的，公示期间和强制分配宅基地当时也没有说是违法建筑，我们胜诉后，该建筑顺理成章成为合法建筑，况且搭建地点与防城区政府公示被拆迁户朱贤才的宅基地地点也没有冲突(图2﹑图6)。防城区政府强行分配宅基地(图7﹑图8﹑图9﹑图10)，强行维护凌耀雄建房(图15﹑图16)(附有视频)，对生效的法院判决不作为(图12﹑图13)，强行拆除合法民房，这是典型的“只准州官放火;不许百姓点灯！”，也是某些手执大权的“州官”打击报复我们的手段。更让人怀疑这其中有多少猫腻？
 
 
@@ -66,6 +64,8 @@ https://ceshiyouxi.oss-cn-shenzhen.aliyuncs.com/baguizhizun/download/client/003.
   <source id="mp4" src="https://ceshiyouxi.oss-cn-shenzhen.aliyuncs.com/baguizhizun/download/client/002.mp4" type="video/mp4">
   <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+
 
 <video id="video" controls="" preload="none" poster="https://ceshiyouxi.oss-cn-shenzhen.aliyuncs.com/baguizhizun/download/client/images/VID_20160301_092428-0001.png">
   <source id="mp4" src="https://ceshiyouxi.oss-cn-shenzhen.aliyuncs.com/baguizhizun/download/client/003.mp4" type="video/mp4">
